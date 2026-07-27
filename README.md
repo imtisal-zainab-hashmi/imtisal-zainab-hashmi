@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hi I'm Imtisal Zainab!!
+ 
+🎓 ICS student, currently learning Computer Science
 
-<!--
-**imtisal-zainab-hashmi/imtisal-zainab-hashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Working through Harvard's CS50
 
-Here are some ideas to get you started:
+💡 Exploring different areas of CS: web dev, AI, and app development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently doing ICS(Intermediate in Computer Science) and learning:
+- C
+- Git & GitHub
+- SQL
+
+Building projects along the way
+
+ 🌐 Connect with me 
+ 📧 imoiimo2010@gmail.com
