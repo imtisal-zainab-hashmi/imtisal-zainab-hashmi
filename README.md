@@ -1,5 +1,5 @@
 ## About:
- Hi I'm Imtisal Zainab!!
+ **Hi I'm Imtisal Zainab!!**
  
 🎓 ICS student, currently learning Computer Science
 
