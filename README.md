@@ -3,11 +3,7 @@
  
 🎓 ICS student, currently learning Computer Science
 
-📚 Working through Harvard's CS50
-
 💡 Exploring different areas of CS: web dev, AI, and app development
-
-📚Currently doing ICS(Intermediate in Computer Science) 
 
 💡Building projects along the way
 
@@ -18,9 +14,8 @@
 
 # Certifications
 
+👉[View my certificates](https://github.com/imtisal-zainab-hashmi/imtisal-zainab-hashmi/blob/main/certificates.pdf)
+
 ## Socials:
  🌐 Connect with me 
- 
- 📧 imoiimo2010@gmail.com
- 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tisal.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tisal.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imoiimo2010@gmail.com)
