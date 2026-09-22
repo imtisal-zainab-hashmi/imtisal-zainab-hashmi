@@ -15,7 +15,7 @@
 
 # Certifications
 
-👉[View my certificates](https://github.com/imtisal-zainab-hashmi/imtisal-zainab-hashmi/blob/main/certificates.pdf)
+👉[View my certificates](https://github.com/imtisal-zainab-hashmi/imtisal-zainab-hashmi/blob/main/certificates(view).pdf)
 
 ## Socials:
  🌐 Connect with me 
