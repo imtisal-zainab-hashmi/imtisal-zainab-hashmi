@@ -13,7 +13,7 @@
 ![SMTP](https://img.shields.io/badge/Gmail_SMTP-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask_Framework-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![CS50](https://img.shields.io/badge/CS50_SQL-A51C30?style=for-the-badge&logo=harvard&logoColor=white) ![SQL](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite3-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Thunder Client](https://img.shields.io/badge/Thunder_Client-%234F46E5.svg?style=for-the-badge&logo=thunderclient&logoColor=white)
+![CS50](https://img.shields.io/badge/CS50_SQL-A51C30?style=for-the-badge&logo=harvard&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite3-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Thunder Client](https://img.shields.io/badge/Thunder_Client-%234F46E5.svg?style=for-the-badge&logo=thunderclient&logoColor=white)
 
 
 
